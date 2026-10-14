@@ -1,0 +1,17 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001
+## Title: |cff0cd29fEllesmereUI|r Item Count
+## Category: |cff0cd29fEllesmere|rUI
+## Group: EllesmereUI
+## Notes: Adds how many of an item you have to item tooltips: total, bags and bank. Settings: Dworak > Item Count. /itemcount
+## Author: Dworak
+## Version: 1.0.0
+## Dependencies: EllesmereUI
+## OptionalDeps: EllesmereUIDworak
+## SavedVariables: EllesmereUIItemCountDB
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+# Core: settings + the tooltip lines (works without the options page)
+EllesmereUIItemCount.lua
+
+# Options page (Dworak > Item Count in the EllesmereUI panel, through EllesmereUIDworak)
+EllesmereUIItemCount_Options.lua
