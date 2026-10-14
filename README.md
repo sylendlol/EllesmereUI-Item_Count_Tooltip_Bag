@@ -1,0 +1,1 @@
+# EllesmereUI-Item_Count_Tooltip_Bag
